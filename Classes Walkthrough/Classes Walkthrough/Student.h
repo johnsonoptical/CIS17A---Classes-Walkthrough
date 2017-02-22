@@ -7,7 +7,7 @@ private:
 	string _name;
 
 public:
-	//void SetName(std::stringName)
+	Student();
 	Student(std::string name);
 	~Student();
 
